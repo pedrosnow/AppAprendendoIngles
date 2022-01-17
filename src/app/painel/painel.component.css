@@ -1,4 +1,10 @@
 .jumbotron{
     margin-top: 20px;
     padding: 30px 30px;
+    background: rgb(228, 228, 228);
+    border-radius: 10px;
+}
+
+#btn-verificar{
+    margin-top: 20px;
 }
